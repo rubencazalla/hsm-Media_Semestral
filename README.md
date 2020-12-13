@@ -1,2 +1,2 @@
-# hsm-Media_Semestral
-HSM Media Semestral02
+# hsm-Média_Semestral
+HSM Média Semestral02
